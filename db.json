@@ -1,0 +1,146 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Pick some food"
+    },
+    {
+      "id": 2,
+      "question": "Pick a healthy choice"
+    },
+    {
+      "id": 3,
+      "question": "Pick a movie snack"
+    },
+    {
+      "id": 4,
+      "question": "Pick a fast-food spot"
+    },
+    {
+      "id": 5,
+      "question": "Pick some more food"
+    }
+  ],
+  "answers":[
+    {
+      "id": 1,
+      "questionId": 1,
+      "weight": 5,
+      "answer": "caesar salad"
+    },
+    {
+      "id": 2,
+      "questionId": 1,
+      "weight": 10,
+      "answer": "nuggets"
+    },
+    {
+      "id": 3,
+      "questionId": 1,
+      "weight": 20,
+      "answer": "burger"
+    },
+    {
+      "id": 4,
+      "questionId": 1,
+      "weight": 15,
+      "answer": "chicken sandwich"
+    },
+    {
+      "id": 5,
+      "questionId": 2,
+      "weight": 10,
+      "answer": "fruit"
+    },
+    {
+      "id": 6,
+      "questionId": 2,
+      "weight": 15,
+      "answer": "salad"
+    },
+    {
+      "id": 7,
+      "questionId": 2,
+      "weight": 20,
+      "answer": "parfait"
+    },
+    {
+      "id": 8,
+      "questionId": 2,
+      "weight": 5,
+      "answer": "pasta salad"
+    },
+    {
+      "id": 9,
+      "questionId": 3,
+      "weight": 5,
+      "answer": "M&M’s"
+    },
+    {
+      "id": 10,
+      "questionId": 3,
+      "weight": 10,
+      "answer": "caramel popcorn"
+    },
+    {
+      "id": 11,
+      "questionId": 3,
+      "weight": 15,
+      "answer": "traditional popcorn"
+    },
+    {
+      "id": 12,
+      "questionId": 3,
+      "weight": 20,
+      "answer": "ice cream"
+    },
+    {
+      "id": 13,
+      "questionId": 4,
+      "weight": 15,
+      "answer": "Dunkin’s Donuts"
+    },
+    {
+      "id": 14,
+      "questionId": 4,
+      "weight": 5,
+      "answer": "Wendy’s"
+    },
+    {
+      "id": 15,
+      "questionId": 4,
+      "weight": 20,
+      "answer": "Burger King"
+    },
+    {
+      "id": 16,
+      "questionId": 4,
+      "weight": 10,
+      "answer": "McDonald’s"
+    },
+    {
+      "id": 17,
+      "questionId": 5,
+      "weight": 5,
+      "answer": "pasta"
+    },
+    {
+      "id": 18,
+      "questionId": 5,
+      "weight": 15,
+      "answer": "chicken"
+    },
+    {
+      "id": 19,
+      "questionId": 5,
+      "weight": 10,
+      "answer": "sandwich"
+    },
+    {
+      "id": 20,
+      "questionId": 5,
+      "weight": 20,
+      "answer": "pizza"
+    }
+  ]
+}
